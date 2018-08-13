@@ -12,7 +12,7 @@
     <div id="map"></div>
     <script>
       function initMap() {
-        var myLatLng = {lat: -25.363, lng: 131.044};
+        var myLatLng = {lat: 43.209736, lng: 27.920917};
 
         // Create a map object and specify the DOM element
         // for display.
